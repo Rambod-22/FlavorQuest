@@ -22,7 +22,7 @@ module.exports.validateRestaurant = (req, res, next) => {
     else {
         next();
     }
-}
+};
 
 module.exports.isAuthor = async (req, res, next) => {
     const { id } = req.params;
@@ -55,4 +55,4 @@ module.exports.validateReview = (req, res, next) => {
     else {
         next();
     }
-}
+};

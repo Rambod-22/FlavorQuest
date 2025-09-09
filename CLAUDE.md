@@ -45,4 +45,4 @@ FlavorQuest is a full-stack restaurant discovery and rating platform built with 
 ### Error Handling
 - Custom ExpressError class in helpers/ExpressError.js
 - Async error wrapper utility in helpers/catchAsync.js
-- Global error handler in app.js
+- Global error handler in app.js 
