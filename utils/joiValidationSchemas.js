@@ -15,5 +15,5 @@ const ReviewSchema = Joi.object({
     body: Joi.string().required()
 });
 
-exports.CampgroundSchema = CampgroundSchema
+exports.CampgroundSchema = CampgroundSchema;
 exports.ReviewSchema = ReviewSchema;

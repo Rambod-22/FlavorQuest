@@ -84,4 +84,4 @@ const seedDB = async () => {
 seedDB().then(() => {
     mongoose.connection.close();
     console.log("Database connection closed.");
-})
+});
