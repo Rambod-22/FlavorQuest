@@ -62,4 +62,4 @@ RestaurantSchema.post('findOneAndDelete', async function (doc) {
     }
 })
 
-module.exports = mongoose.model('Restaurant', RestaurantSchema);
+module.exports = mongoose.model('Restaurant', RestaurantSchema)

@@ -20,7 +20,9 @@
       "Bash(npm install:*)",
       "Bash(railway login:*)",
       "Bash(git remote set-url:*)",
-      "Bash(git pull:*)"
+      "Bash(git pull:*)",
+      "Bash(git rebase:*)",
+      "Bash(git stash:*)"
     ],
     "deny": [],
     "ask": []

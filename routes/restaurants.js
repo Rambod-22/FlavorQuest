@@ -31,4 +31,4 @@ router.get('/:id/edit', isLoggedIn, isAuthor, catchAsync(restaurants.editRestaur
 
 
 
-module.exports = router
+module.exports = router;

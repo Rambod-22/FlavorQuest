@@ -88,5 +88,4 @@ module.exports.deleteRestaurant = async (req, res) => {
     const restaurant = await Restaurant.findByIdAndDelete(req.params.id);
     req.flash('success', 'Successfully deleted restaurant!')
     res.redirect(`/restaurants`)
-
 }
