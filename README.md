@@ -40,4 +40,4 @@
 
 ---
 
-**📅 Created in 2025** | **🔗 Live Demo**: [Your Railway URL Here] 
+**📅 Created in 2025** |
